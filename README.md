@@ -8,6 +8,7 @@ I'm a first-year B.Tech CSE (AI & ML) student at SVKM NMIMS Global University, D
 ⚡ Submitted an inductive under-road EV charging pad concept to Google's Gemini "Fund My Crazy 2.0" campaign
 📢 Managing campus events and promo content as a Google Student Ambassador (GID-5052)
 🎯 Long-term goal: land a role at a top-tier MNC
+🌱 Exploring **AgriSense AI** (an AI-powered smart farming platform) — planning my own take on it next
 <br/>
 🚀 Featured Projects
 Nova — A personal AI assistant for my laptop, evolved from a local Ollama/llama3.2 setup to a Gemini 2.0 Flash–powered assistant with a glowing orb widget UI, real-time voice output (edge-tts), and socket-based state communication.
