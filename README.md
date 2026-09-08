@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:dbeafe,100:60a5fa&height=200&section=header&text=Om%20Gavhane&fontSize=50&fontColor=1e3a8a&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20Google%20Student%20Ambassador&descSize=18&descAlign=50&descColor=1e40af" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:dbeafe,100:60a5fa&height=200&section=header&text=Om%20Gavhane&fontSize=50&fontColor=1e3a8a&desc=B.Tech%20CSE%20AI%20and%20ML%20Student%20-%20Google%20Student%20Ambassador&descSize=16&descAlign=50&descColor=1e40af" width="100%"/>
 </div>
 
 ### 👋 About Me
