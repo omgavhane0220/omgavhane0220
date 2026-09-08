@@ -8,7 +8,7 @@ I'm a first-year B.Tech CSE (AI & ML) student at SVKM NMIMS Global University, D
 ⚡ Submitted an inductive under-road EV charging pad concept to Google's Gemini "Fund My Crazy 2.0" campaign
 📢 Managing campus events and promo content as a Google Student Ambassador (GID-5052)
 🎯 Long-term goal: land a role at a top-tier MNC
-🌱 Exploring **AgriSense AI** (an AI-powered smart farming platform) — planning my own take on it next
+🌱 Exploring AgriSense AI (an AI-powered smart farming platform) — planning my own take on it next
 <br/>
 🚀 Featured Projects
 Nova — A personal AI assistant for my laptop, evolved from a local Ollama/llama3.2 setup to a Gemini 2.0 Flash–powered assistant with a glowing orb widget UI, real-time voice output (edge-tts), and socket-based state communication.
@@ -27,7 +27,7 @@ Codveda-basic--Task1- — A basic static multi-page website with homepage, about
 🌐 Connect With Me
 <p align="left">
 <a href="mailto:gavhaneom571@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/om-gavhane-30662a377?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/om-gavhane-30662a377"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 <br/>
 <div align="center">
