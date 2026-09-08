@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:dbeafe,100:60a5fa&height=200&section=header&text=Om%20Gavhane&fontSize=50&fontColor=1e3a8a&desc=B.Tech%20CSE%20AI%20and%20ML%20Student%20-%20Google%20Student%20Ambassador&descSize=16&descAlign=50&descColor=1e40af" width="100%"/>
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:dbeafe,100:60a5fa&height=220&section=header&text=Om%20Gavhane&fontSize=50&fontColor=1e3a8a&fontAlignY=35&desc=B.Tech%20CSE%20AI%20and%20ML%20Student%20-%20Google%20Student%20Ambassador&descSize=16&descAlign=50&descAlignY=60&descColor=1e40af" width="100%"/>
 ### 👋 About Me
 
 I'm a first-year **B.Tech CSE (AI & ML)** student at SVKM NMIMS Global University, Dhule, building practical, real-world projects across web dev and applied AI. I'm a **Google Student Ambassador** and **Gemini Campus Ambassador**, running events and creating content on campus. Currently leveling up my full-stack skills (Java, Python, HTML/CSS, SQL) and always looking to build things that solve real problems.
